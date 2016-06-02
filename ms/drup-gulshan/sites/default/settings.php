@@ -598,3 +598,5 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
  * Remove the leading hash sign to enable.
  */
 # $conf['theme_debug'] = TRUE;
+
+$databases['default']['default'] = array('database' => '456ce7416760','username' => 'd9cd19c035b4','password' => '8a5462fb4322','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
